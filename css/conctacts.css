@@ -4,8 +4,8 @@ body {
 }
 .header {
   height: 100px;
-  background: url(/img/logo=fon2.png) no-repeat,
-              url(/img/logo-fon1.png) no-repeat;
+  background: url(img/logo=fon2.png) no-repeat,
+              url(img/logo-fon1.png) no-repeat;
   background-position: right bottom, left;
   background-size: 8%;            
 }
