@@ -1,0 +1,125 @@
+body {
+    background-color: #f8f8f8;
+}
+.header {
+    height: 100px;
+    background: url(/img/logo=fon2.png) no-repeat,
+                url(/img/logo-fon1.png) no-repeat;
+    background-position: right bottom, left;
+    background-size: 8%;            
+}
+.header .nav {
+    margin-left: 79%;
+    margin-bottom: -2em;
+    width: fit-content;
+}
+.header .nav> a {
+    color: #c7ad1c;
+    font-size: 120%;
+    text-decoration: none;    
+}
+.header .nav> a:hover {
+    color: gold;
+    text-decoration: underline;
+    transform: scale(0.7);
+}
+.header .logotip > img {
+    margin-left: 38%;
+    margin-bottom: -3em;
+}
+  .logo {
+      margin-left: 45%;
+      margin-top: -1em;
+      font-size: 150%;
+      color: #F7D65A;
+      font-family:cursive;
+  }
+.logo::first-letter {
+    color: #F7D65A;
+}
+.header > a {
+    text-decoration: none;
+    font-size: 180%;
+}
+.header > a:hover {
+    color: #a6ea20;
+    transform: scale(2);
+}
+.header > a:focus {
+    color: red;
+    transform: scale(2);
+}
+.rightBlock {
+    display: flex;
+}
+.rightBlock .opTovara {
+    width: fit-content;
+    margin-left: 2em;
+}
+.rightBlock > p {
+    margin-left: -12em;
+    margin-top: 3em;
+    font-style: italic;
+}
+.rightBlock > button {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: -12em;
+    margin-top: 8em;
+    background-color: #afacac;
+}
+.rightBlock > button:hover {
+    background-color: #dbff93;
+}
+.rightBlock > button:focus {
+    background-color: #b7e35e;
+}
+.podrobnee .rightBlock> a >img {
+    border: 10px solid yellow;
+}
+.podrobnee .rightBlock> a >img:hover {
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+p::first-letter {
+    font-size: 28px;
+    color: red;
+}
+table {
+    width: 30%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+.first-stroka {
+    height: 100px;
+}
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: auto;
+    padding: 20px;
+    bottom: 0;
+    height: 4em;
+    width: 98%;
+  }
+  .footer > p {
+      width: fit-content;
+      margin-left: auto;
+      margin-right: 1em;
+  }
+.footer > p::first-letter {
+    color: white;
+}

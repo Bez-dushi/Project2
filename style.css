@@ -1,0 +1,152 @@
+body {
+    background-color: #f8f8f8;
+}
+/* .header > a {
+    color: #c7ad1c;
+    font-size: 120%;
+    text-decoration: none;
+}
+.header > a:hover {
+    color: gold;
+    text-decoration: underline;
+    transform: scale(0.7);
+}
+.header > img {
+    margin-left: 34%;
+
+}
+
+.logo {
+    margin-left: 45%;
+    margin-top: -1em;
+    font-size: 150%;
+    color: #F7D65A;
+    font-family:cursive;
+}
+
+ul {
+    list-style:square;
+}
+li {
+    color: gray;
+    font-style: initial;
+    font-size:xx-large;
+}
+.podrobnee > h2{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+.podrobnee > a >img {
+    border: 2px solid black;
+}
+
+.kratkoe-opisanie {
+    color:  #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.podrobnoe-opisanie {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+input {
+    width: 15%;
+    height: 2em;
+    color: black;
+}
+
+#email:focus {
+    background-color: #b7d823;
+}
+
+input::placeholder {
+    color: gray;
+}
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .copyright {
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+  .copyright::before {
+    content: "\00a9"; /* Юникод-символ копирайта 
+    font-size: 1.2em;
+  }
+.contact-form {
+      max-width: 400px;
+      margin: 50px auto;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: #333;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      transition: border-color 0.3s;
+      color: #333;
+      text-transform: capitalize;
+    }
+
+    input:focus {
+      border-color: #4CAF50; /* Цвет границы при фокусе (например, зеленый) 
+      color: #7321d1; /* Цвет текста при фокусе (например, зеленый) 
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+  
+      th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+      }
+  
+      th {
+        background-color: #f2f2f2;
+      }
+.zxc:hover{
+    border-color: transparent;
+} 
+*/
